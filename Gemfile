@@ -21,6 +21,8 @@ gem 'foundation-rails'
 # gem 'therubyracer', platforms: :ruby
 gem 'rails_layout'
 
+gem 'gibbon'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
