@@ -24,10 +24,14 @@ gem 'rails_layout'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
+gem 'activerecord-tableless'
+
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 
 gem 'figaro'
+
+gem 'google_drive'
 
 gem 'simple_form'
 
